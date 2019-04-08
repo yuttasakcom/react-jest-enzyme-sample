@@ -7,3 +7,7 @@
 ## Setup Jest Webpack
 
 > https://jestjs.io/docs/en/webpack
+
+## Setup Enzyme
+
+> https://airbnb.io/enzyme/
