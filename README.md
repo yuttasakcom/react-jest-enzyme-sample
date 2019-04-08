@@ -11,3 +11,8 @@
 ## Setup Enzyme
 
 > https://airbnb.io/enzyme/
+
+```bash
+yarn add ajv
+yarn add -D jest-enzyme enzyme enzyme-adapter-react-16
+```
